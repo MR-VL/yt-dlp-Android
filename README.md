@@ -107,6 +107,8 @@ GitHub Issues: Report an Issue
 
 Feature Suggestions: Create a GitHub Issue With the **Feature** tag
 
+Discussions: Engage and collaborate with the community and share ideas for future updates
+
 <!--Email: support@2048twistapp.com-->
 ## 📝 License
 This project is licensed under the AGPl-3.0 License. See the [LICENSE](https://github.com/MR-VL/2048Twist/blob/bd565409c1e9b51a0253a5deee6eecbc19a0497c/LICENSE) file for details.
