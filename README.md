@@ -58,7 +58,7 @@ Follow the link to install the latest version of 2048 with a Twist. You can inst
 
 <hr> 
 
-***Run the game and compete with freiends:*** Launch it on your Android device and start swiping!
+***Run the game and compete with friends:*** Launch it on your Android device and start swiping!
 
 ***Invite Friends:*** Share your high scores and challenge others on the leaderboard.
 
