@@ -113,4 +113,11 @@ Discussions: Engage and collaborate with the community and share ideas for futur
 ## 📝 License
 This project is licensed under the AGPl-3.0 License. See the [LICENSE](https://github.com/MR-VL/2048Twist/blob/bd565409c1e9b51a0253a5deee6eecbc19a0497c/LICENSE) file for details.
 
+## 🤝 Contributors 
+<!--Could potentially add a dynamic one to pull the names and how many contributions each person has-->
+Create a pull request with your contribution to be added to the list!!!<br>
+### The current contributors to this project are:<br>
+[Vlad](https://github.com/MR-VL)<br>
+[Lillian](https://github.com/Huston-Lillian)
+
 ## 🎉 Download the app, swipe your way to victory, and experience the twist!🎉
