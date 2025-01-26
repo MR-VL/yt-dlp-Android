@@ -7,9 +7,7 @@ import androidx.lifecycle.ViewModel
 class TransformViewModel : ViewModel() {
 
     private val _texts = MutableLiveData<List<String>>().apply {
-        value = (1..16).mapIndexed { _, i ->
-            "This is item # $i"
-        }
+        value = listOf("uFit Workouts")
     }
 
     val texts: LiveData<List<String>> = _texts
