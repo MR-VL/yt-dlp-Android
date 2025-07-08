@@ -1,6 +1,7 @@
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.android)
+    alias(libs.plugins.chaquopy)
 }
 
 android {
@@ -35,6 +36,11 @@ android {
     }
     buildFeatures {
         viewBinding = true
+    }
+    python {
+        pip {
+            install("yt-dlp")
+        }
     }
 }
 
