@@ -3,6 +3,7 @@ apply plugin: 'org.jetbrains.kotlin.android'
 apply plugin: 'com.chaquo.python'
 
 android {
+    namespace "com.example.yt_dlp_android"
     compileSdkVersion 36
 
     defaultConfig {
