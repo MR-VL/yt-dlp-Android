@@ -21,8 +21,8 @@ class YtDlpUnitTest {
     @Test
     fun testYtDlpExtractInfo() {
         val py = Python.getInstance()
-        val ytDlpModule = py.getModule("yt_dlp")
-        val youtubeDL = ytDlpModule.get("YoutubeDL")
+        val ytDlpModule = py.getModule("yt_dlp")!!
+        val youtubeDL = ytDlpModule.get("YoutubeDL")!!
 
         val options = py.builtins.callAttr("dict")
         val ydl = youtubeDL.call(options)
